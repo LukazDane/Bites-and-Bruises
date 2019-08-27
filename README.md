@@ -9,3 +9,4 @@
     - Kor: Manny Jacinto
     - Torin Rath Kal: Kristen Stuart
     - Disembodied Voice: Colin Firth
+    - Sound Effects: Chris Barnes
